@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parables reflecting upon the times, newly past, and yet present; by P:D: the writer of the Problemes lately printed, and now recommended to the attentive reading, serious consideration, and devout meditation of all the generals, officers, &amp; souldiers, that have been imployed on either side in the late unnaturall warre; more especially of His Excellency, the Lord Faifax, and those of his victorious Army.</title>
+            <author>Nethersole, Francis, Sir, 1587-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89917</idno>
+            <idno type="STC">Wing N496</idno>
+            <idno type="STC">Thomason E470_31</idno>
+            <idno type="STC">ESTC R865</idno>
+            <idno type="EEBO-CITATION">99873363</idno>
+            <idno type="PROQUEST">99873363</idno>
+            <idno type="VID">162402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Parables reflecting upon the times, newly past, and yet present; by P:D: the writer of the Problemes lately printed, and now recommended to the attentive reading, serious consideration, and devout meditation of all the generals, officers, &amp; souldiers, that have been imployed on either side in the late unnaturall warre; more especially of His Excellency, the Lord Faifax, and those of his victorious Army.</title>
+                  <author>Nethersole, Francis, Sir, 1587-1659.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year. MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P:D: = Sir Francis Nethersole.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "nouemb: 13.".</note>
+                  <note>Reproductions of the originals in the Huntington Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162402:1" rendition="simple:additions"/>
+            <p>PARABLES Reflecting upon the Times, Newly <hi>Paſt,</hi> and yet <hi>Preſent;</hi>
+            </p>
+            <p>By <hi>P: D:</hi> The Writer of the Problemes lately printed,</p>
+            <p>And now recommended to the attentive reading, ſerious conſideration, and devout meditation OF ALL The <hi>Generals, Officers,</hi> &amp; <hi>Souldiers,</hi> that have been imployed on either ſide in the late un<g ref="char:EOLhyphen"/>naturall WARRE; More eſpecially of His Excellency, the Lord <hi>Fairfax,</hi> and thoſe of his victorious <hi>ARMY.</hi>
+            </p>
+            <q>
+               <p>Behold, becauſe the Lord God of your Fathers was wroth with <hi>Judah,</hi> he hath de<g ref="char:EOLhyphen"/>livered them into your hand, and ye haue ſlain them in a rage that reacheth up unto heaven.</p>
+               <p>And now ye purpoſe to keep under the children of <hi>Judah</hi> and <hi>Jeruſalem</hi> for bond<g ref="char:EOLhyphen"/>men, and bondwomen unto you: but are there not with you, even with you, ſins againſt the Lord your God? <bibl>2 Chron. 28.9, &amp; 10.</bibl>
+               </p>
+            </q>
+            <q xml:lang="lat">Quam fortia ſunt verba recta!</q>
+            <p>
+               <add>nouemb: 13</add> Printed in the yeare. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162402:2"/>
+            <pb n="3" facs="tcp:162402:2"/>
+            <head>Parables reflecting upon the Times.</head>
+            <p n="1">1. Whether if a loving husband have a jealous conceit that his Wife hath a mind to uſurp authority over him, or in his affaires, beyond that which he think<g ref="char:EOLhyphen"/>eth fit, or would be for his honour to allow her, in reſpect of the cuſtome of the Countrey where they live, though he beleeve ſhe affecteth this power in her intendment for his good, yet whether he be bound to yeeld to her therein? Or if he be not ſo tame, as to thinke it his duty to be obe<g ref="char:EOLhyphen"/>dient to her for quietneſſe ſake, nor ſhe ſo obedient to him, as to defiſt from ſeeking to have her will therein (as he imagineth) whether he may thereupon take occaſion to abridge her of that intereſt either in his affections, or counſels by the way of adviſe, and of gentle perſwaſion, or in ſuch his domeſticke, or other affaires as are proper for her managing; and whether he be like to be better ſerved by truſting ſervants, rather than his wife, in ſuch things of courſe belonging to her care?</p>
+            <p n="2">2. Whether uncertaine feares, and jealouſies of the higheſt nature between man, and wife, and peradventure not altogether without ſome appearing cauſe, be a ſufficient ground either for their withdrawing themſelves from one anothers company, or for their continuing to live apart? And whether the deviſers, bearers, receivers, ſpreaders, countenancers, and whiſperers of uncharitable ſurmiſes and falſe tales between them, and all other promoters of ſuch jealouſies, and furtherers of ſuch ſeparation, or diſcon<g ref="char:EOLhyphen"/>tinuance, be not guilty of all the evill conſequences of both?</p>
+            <p n="3">
+               <pb n="4" facs="tcp:162402:3"/>3. Whether if a new married man, and his wife living in their Fathers houſe, ſhould happen to fall out ſo farre, as to come to blowes, upon no other quarrell but ſuch his uncertaine feares, and jealouſies of her affecting ſuperi<g ref="char:EOLhyphen"/>ority, and their Fathers ſervants appointed to wait on them, in ſtead of parting them, ſhould take part, ſome with their young Maſter, ſome with their young Miſtreſſe, and ſome of thoſe ſervants ſhould chance to loſe their life on both ſides, whether all the ſlain ſhould not be guilty of their owne, and of their fellowes deaths? And whether ſuch ſervants remaining alive, as ſhould ſtill perſwade, and urge the young people to try out the Maſtery; or ſuch as from the beginning ever perſwaded to peace, and did what in them was to prevent this unnaturall fray; or after it came to bloud, at laſt repenting their having had any hand there<g ref="char:EOLhyphen"/>in, became thereupon the more effectuall ſolliciters, and importuners for a reconcilement, be like to have more blame, or thanks given from the good Gentleman their old Maſter, when he ſhall come to take notice of this matter, or of the young folke themſelves, if once they come to be cor<g ref="char:EOLhyphen"/>dially kind againe?</p>
+            <p n="4">4. Whether a Lady of unſpotted chaſtity, and unble<g ref="char:EOLhyphen"/>miſhed reputation, having a jealous husband, and having been informed that ſhe had been ſlandered in the point of her Loyalty to him, by ſome crafty paraſite, or officious ſervant of his, ought to thinke her ſelfe much beholding to any friend, or ſervant of hers, that hearing thereof, ſhould challenge ſuch paraſite, or ſervant of her husbands into the field, thereby putting the before unqueſtioned fame of her integrity upon the uncertain chance of the iſſue of a duell? And whether a faithfull husband having a jealous wife, and having found out the evill inſtruments of much diſcontent between them upon that occaſion, but having found with<g ref="char:EOLhyphen"/>all,
+<pb n="5" facs="tcp:162402:3"/>
+that being perſons highly in her favour, ſhe would by no meanes endure to have them queſtioned for it, ſhould be obliged to ſuch friends or ſervants, as out of their zeale to his ſervice ſhould attempt to fright them from being about her? And whether it be not more counſellable for both the ſaid parties, to wait for ſeaſonable opportunities to remove ſuch make-bates at leiſure; admitting the infor<g ref="char:EOLhyphen"/>mations againſt them to be certaine? And whether how certaine ſoever either of the parties may thinke the infor<g ref="char:EOLhyphen"/>mations, and how wiſe ſoever both of them may be, yet they may not have been abuſed therein by the wily practi<g ref="char:EOLhyphen"/>ſes of cunning perſons?</p>
+            <p n="5">5. Whether ſuch high diſagreements and brawles be<g ref="char:EOLhyphen"/>tween man and wife upon ungrounded jealouſies be not ever great ſinnes, as well as great afflictions, and commonly the puniſhment of former ſinnes, either againſt one ano<g ref="char:EOLhyphen"/>ther, or with one another, in having agreed to diſpleaſe God in ſome things, either to pleaſe, or at leaſt not to diſpleaſe one another? And whether an Oath ought not to be accep<g ref="char:EOLhyphen"/>ted for the clearing of ſuch jealouſies, if there be no certain proofe that there is a cauſe for them? And whether if that be not found a ſufficient remedy, any other will, but their confeſſing their faults one to another, forgiving one ano<g ref="char:EOLhyphen"/>ther, praying for one another, burying all harſh paſſages in oblivion without repitition, and beginning the world anew with the good old Scottiſh Proverbe; <hi>Let bygans be bygans?</hi> And whether any good man can be againſt ſuch an agree<g ref="char:EOLhyphen"/>ment between parties ſo yoaked together, that neither of them can be happy without the other, nor till they be both agreed to goe quietly one way, and to put their ſhoulders together to the drawing of that load, which will otherwiſe be found too heavy for them?</p>
+            <p n="6">6. Whether if in ſuch an unnaturall fray between huſ<g ref="char:EOLhyphen"/>band
+<pb n="6" facs="tcp:162402:4"/>
+and wife, it ſhould happen that the woman ſhould give the man a fall, and having gotten him under her, ſhould threaten never to let him riſe againe, unleſſe he would give it her under his hand, that he would thence forward be con<g ref="char:EOLhyphen"/>tent ſhe ſhould weare the breeches, and yet after long hold<g ref="char:EOLhyphen"/>ing him downe ſhould find him the moſt reſolved man un<g ref="char:EOLhyphen"/>der the Sun, never to diſhonour himſelfe ſo farre as to yeeld thereunto: Whether I ſay in this caſe, it could be poſſible for her to make any greater advantage of the fortune of the day, than in a noble faſhion to tell him, that having made an experiment of his wiſdome and courage, ſhe now found, and acknowledged him to be worthy to be her Lord, and would from thenceforth yeeld all due obedience to him? And whether this were not like to prove the ſtrongeſt tye upon her husband, lifted up by the ſame hand that threw him to the ground, to bury all that had paſſed between them in perpetuall oblivion? And whether he ſhould not be, and be reputed, the moſt unworthy man in the world, if from that day forward he ſhould not uſe her with all the reſpect due to a Lady of ſo brave a ſpirit, and allow her a much greater part in his affaires, than he could well have done with his honour, if there never had been any ſuch con<g ref="char:EOLhyphen"/>teſt between them?</p>
+            <p>And now if any man ſhall aske the meaning of theſe Pa<g ref="char:EOLhyphen"/>rables, he may find them expounded to his hand in the conſiderations dedicated to the City, in the yeare 1642; Where he may alſo be ſhewed the uſe to be made of them in theſe words:—And becauſe experience hath taught me, that the rarity and greatneſſe of affaires, and accidents of State, doth I know not how dazle the eyes of men unaccuſtomed, and unacquainted with the judging and handling of them, and that the beſt way to diſ<g ref="char:EOLhyphen"/>pell
+<pb n="7" facs="tcp:162402:4"/>
+this miſt, is to looke on ſuch things and courſes which are uſuall in common life, and by them to take the right proportions, and meaſure, and way of managing of the other leſſe knowne, my firſt endeavour ſhall be to find out ſuch a paralell for the buſines now in hand. And as I know no compariſon doth run better, or more fit than that of a man, and his wife, with the King, and his Parliament; ſo I would our preſent diſtempers were not too like the condition of a woman, and her husband, firſt parted upon jealouſie, and other diſcontents between them, and then not knowing how with credit to come together again, when the great increaſe of both their diſcomforts, occaſioned by their ſeparation, hath ſuffici<g ref="char:EOLhyphen"/>ently diſpoſed them unto it. For in this caſe, which is of too common knowledge, if through the working of their owne good nature, or the ſolicitation of others, they ſhall take a re<g ref="char:EOLhyphen"/>ſolution to make haſte to meet againe at one great ſtep, by paſ<g ref="char:EOLhyphen"/>ſing over all that hath paſſed between them in ſilence, it is a hundred to one, that once within a moneth, or a yeare or two, ſome new falling out upon old reckonings will happen be<g ref="char:EOLhyphen"/>tween them, and then this ſecond breach will be harder to make up then the former. On the other ſide, if they ſhall re<g ref="char:EOLhyphen"/>ſolve to live aſunder till ſatisfaction ſhall be given for every cauſe of diſtaſte, and till every ground of difference between them ſhall be fully reconciled, by the going of friends, or ſen<g ref="char:EOLhyphen"/>ding of papers between them the adventure is no leſſe, that pick-thank tale-bearers, and ſuch other perſons, as either are gainers by their being at odds, or in danger by their recon<g ref="char:EOLhyphen"/>cilement, will give ſo many cunning interruptions to the length of ſuch a Negotiation, that one of their lives will be ended before the Treaty be concluded. In this caſe therefore it hath ever been found beſt to goe a middle way by com<g ref="char:EOLhyphen"/>pounding all the principall grounds of their ſeperation be<g ref="char:EOLhyphen"/>fore their returne into the ſame houſe, and to leave the reſt to
+<pb n="8" facs="tcp:162402:5"/>
+be agreed between themſelves, which after they have had a new taſt of the contentment of living as they ought together, will eaſily be done in that field, where all quarrels between husband and wife ſhould be fought our. In imitation of which proceeding, approved by many experiments, let us firſt en<g ref="char:EOLhyphen"/>quire after the Originall grounds of the preſent wide diffe<g ref="char:EOLhyphen"/>rences between the King and his Parliament, and then, after the moſt probable expedients, to agree them.—</p>
+            <p>And now if after all this, any man ſhall deſire me to ſpeak plainely without any Parable, I have done that alſo in the Problemes mentioned in the Title, where he may find the originall Controverſie between the King, and the Parliament, as I humbly conceive, rightly ſtated, and then a Practicall application made of thoſe Problemes in the Project for an equitable, and laſting Peace. Which two peeces are like nee<g ref="char:EOLhyphen"/>dle and thread, and I will preſume to wiſh, though I can hard<g ref="char:EOLhyphen"/>ly hope, might be employed to the drawing up of the wide rents in this miſerably torne Church and State.</p>
+            <epigraph>
+               <bibl>Ariſt. Polit. Lib. 1. cap. 8.</bibl>
+               <q xml:lang="lat">Cum vero tres Oeconomicae diſciplinae partes ſint; una herilis; altera conjugalis; tertia paterna: Etenim paterfamilias uxori &amp; biberis, utriſque velut ingenuis imperat; non eadem tamen imperii genere, ſed uxori politicâ, Liberis regiâ authoritate.</q>
+            </epigraph>
+            <epigraph>
+               <bibl>Sen. Trag. in Agamemn:</bibl>
+               <q xml:lang="lat">Victor timere quid poteſt? Quòd non timet.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
